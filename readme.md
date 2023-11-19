@@ -5,7 +5,7 @@ For more information and to download the latest version, visit the [Modrinth pag
 
 ## How to Provide Feedback
 
-We appreciate your feedback! If you have suggestions, bug reports, or general feedback about Vanilla Additions, please [create an issue](https://github.com/your-username/your-repo-name/issues). When providing feedback, consider including the following details:
+We appreciate your feedback! If you have suggestions, bug reports, or general feedback about Vanilla Additions, please [create an issue](https://github.com/TheBlockSmith/vanilla-additions-help). When providing feedback, consider including the following details:
 
 - Minecraft version
 - Mod version
